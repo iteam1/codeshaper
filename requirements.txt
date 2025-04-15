@@ -1,0 +1,6 @@
+lark-parser
+trimesh
+numpy
+pyglet<2
+networkx
+scipy
